@@ -1,0 +1,5 @@
+# Install libraries
+pip install qdrant-client ollama pandas
+pip install fastembed
+# Start Qdrant locally
+docker run -p 6333:6333 qdrant/qdrant
