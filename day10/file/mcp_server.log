@@ -1,0 +1,113 @@
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000265D4B50AD0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000265D5C9C9D0>
+INFO:mcp.server.lowlevel.server:Processing request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001FEAB1FC450>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001FEAB26B290>
+INFO:mcp.server.lowlevel.server:Processing request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000028F37BBAD10>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001D117EAD4D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001D117ED3E90>
+INFO:mcp.server.lowlevel.server:Processing request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000018C82D7F210>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000018C83EE7E10>
+INFO:mcp.server.lowlevel.server:Processing request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Initializing server 'FileSystem'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001E68878B9D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001E6887BDE50>
+INFO:mcp.server.lowlevel.server:Processing request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Response sent

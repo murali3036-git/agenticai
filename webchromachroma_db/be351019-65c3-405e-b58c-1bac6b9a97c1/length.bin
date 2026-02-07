@@ -1,0 +1,18 @@
+```js
+<Markdown> # Hi This is **not** a paragraph. </Markdown>
+```
+
+Instead, to pass markdown to `Markdown`, you can use an expression:
+with a template literal:
+
+```js
+<Markdown>{`
+# Hi
+
+This is a paragraph.
+`}</Markdown>
+```
+
+Template literals have another potential problem, because they keep whitespace
+(including indentation) inside them.
+That means that the following **does not** turn into a he
