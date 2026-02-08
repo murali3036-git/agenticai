@@ -1,0 +1,37 @@
+CREATE DATABASE IF NOT EXISTS finance_db;
+USE finance_db;
+
+-- Table 1: Assets we currently own
+CREATE TABLE assets (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    ticker VARCHAR(10) NOT NULL,
+    purchase_price DECIMAL(15, 2) NOT NULL,
+    quantity DECIMAL(15, 4) NOT NULL
+);
+
+-- Table 2: Audit log for the AI's actions
+CREATE TABLE compliance_logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    asset_ticker VARCHAR(10),
+    action_taken VARCHAR(255),
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Insert some "Seed Data" for the demo
+INSERT INTO assets (ticker, purchase_price, quantity) VALUES 
+('bitcoin', 98000.00, 0.5),
+('ethereum', 2500.00, 10.0);
+
+USE finance_db;
+
+-- Add diverse assets to test different AI behaviors
+INSERT INTO assets (ticker, purchase_price, quantity) VALUES 
+('nvda', 110.50, 50.0),    -- High growth tech
+('aapl', 225.00, 15.0),    -- Stable blue chip
+('solana', 245.00, 100.0), -- High volatility crypto
+('intel', 45.00, 200.0);   -- Potential "Risk" (price has dropped significantly)
+
+-- Pre-seed some logs to show "History" in your demo
+INSERT INTO compliance_logs (asset_ticker, action_taken) VALUES 
+('bitcoin', 'Initial portfolio audit completed.'),
+('ethereum', 'Auto-monitoring enabled for ETH/USD.');

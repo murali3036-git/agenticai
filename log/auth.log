@@ -1,0 +1,5 @@
+Feb 08 10:15:01 server sshd[1234]: Failed password for root from 192.168.1.50 port 5678 ssh2
+Feb 08 10:15:05 server sshd[1234]: Failed password for root from 192.168.1.50 port 5680 ssh2
+Feb 08 10:15:10 server sshd[1234]: Failed password for root from 192.168.1.50 port 5682 ssh2
+Feb 08 10:15:15 server sshd[1234]: Failed password for root from 192.168.1.50 port 5684 ssh2
+Feb 08 10:16:01 server sshd[1235]: Accepted password for admin from 10.0.0.5 port 22 ssh2

@@ -1,0 +1,3 @@
+Feb 08 11:00:01 server kernel: [  123.456] sd 0:0:0:0: [sda] Starting error recovery
+Feb 08 11:00:05 server kernel: [  125.789] sd 0:0:0:0: [sda] Unaligned write command
+Feb 08 11:00:10 server kernel: [  128.012] sd 0:0:0:0: [sda] Critical medium error
