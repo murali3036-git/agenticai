@@ -1,0 +1,5 @@
+﻿Patient ID,Date,Diagnosis,Medication,Vitals
+P1001,20-10-2025,Type 2 Diabetes Mellitus,Metformin 500mg (BID),A1C: 7.5%
+P1001,15-11-2025,Chronic joint pain,Celecoxib 200mg (daily),X-ray confirmed arthritis
+P1002,01-09-2025,Seasonal Allergic Rhinitis,Cetirizine 10mg (PRN),No asthma history
+P1002,20-11-2025,Routine Checkup,None,Blood pressure: 120/80 mmHg
